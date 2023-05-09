@@ -12,7 +12,7 @@
  <center> <h4> Hello  &nbsp;,&nbsp; I have a goal to create a platform that provides AI-based fashion services 💈</h4> <center>
  
   
-  <center> <h4> The closest current goal is to become an excellent PM, and for that, </h4> <center>
+  <center> <h4> The closest current goal is to become an excellent BA, and for that, </h4> <center>
   
   <center><h4> I am currently studying back-end such as data analysis, and I plan to study front-end and AI fields in the future. thank you. </h4> <center>
    <br>
