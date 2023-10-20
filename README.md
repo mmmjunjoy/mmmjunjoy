@@ -14,7 +14,7 @@
   
   <center> <h4> My closest goal right now is to become a great web developer. </h4> <center>
   
-  <center><h4> Currently, I am studying front-end, and I am also interested in data analysis. thank you </h4> <center>
+  <center><h4> Currently, I am studying front-end & back-end, and I am interested in the e-commerce market. thank you </h4> <center>
    <br>
   <hr>
    <center>    interests <center>
