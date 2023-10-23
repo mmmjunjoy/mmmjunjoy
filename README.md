@@ -6,25 +6,19 @@
 
 <div align = center><img width="200" alt="image" src="https://user-images.githubusercontent.com/121990539/217735977-75aab578-5927-43db-8398-952f259d0d3c.png">
  </div>
- 
+ <br>
+<h3> I'm Junjoy, Web Developer 💻</h3> 
 
  
- <center> <h4> Hello  &nbsp;,&nbsp; I have a goal to create a platform that provides AI-based fashion services 💈</h4> <center>
+ <center> <h4> Hello  &nbsp;,&nbsp; I want to develop a web that can provide convenient services to all users,</h4> <center>
  
+ <center><h4> including consumers and providers, in the e-commerce market. 💈</h4> <center>
   
-  <center> <h4> My closest goal right now is to become a great web developer. </h4> <center>
+  <center><h4> Among them, I am interested in domains related to fashion (clothing) and furniture. </h4> <center>
+
+
   
-  <center><h4> Currently, I am studying front-end & back-end, and I am interested in the e-commerce market. thank you </h4> <center>
-   <br>
-  <hr>
-   <center>    interests <center>
-    <br>
-    <br>
-   
- <center>   Exercise&nbsp; 📎 &nbsp;Development &nbsp; 📎 &nbsp; Fashion<center>
-  
-  <br>
-  
+    
   
   
   
