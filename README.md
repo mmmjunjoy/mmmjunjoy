@@ -1,13 +1,12 @@
 <div align=center>
- 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Junjoy%20Studio&fontSize=55&animation=fadeIn&fontAlignY=30&desc=%20&descAlignY=60&descAlign=90" />	
- 
+ 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=Junjoy%20Studio&fontSize=40&animation=fadeIn&fontAlignY=30&desc=%20&descAlignY=60&descAlign=90" />	
   
-
-
-<div align = center><img width="200" alt="image" src="https://user-images.githubusercontent.com/121990539/217735977-75aab578-5927-43db-8398-952f259d0d3c.png">
+  
+ <div align = center><img width="320" alt="image" src="https://github.com/mmmjunjoy/mmmjunjoy/assets/121990539/aa9fe6bb-5583-4dd3-9fb7-cce072feca4b">
+ 
  </div>
  <br>
-<h3> I'm Junjoy, Web Developer 💻</h3> 
+<h3> I'm Sim jun bo, Web Developer 💻</h3> 
 
  
  <center> <h4> Hello  &nbsp;,&nbsp; I want to develop a web that can provide convenient services to all users,</h4> <center>
