@@ -19,11 +19,6 @@
   
     
   
-  
-### click ☑️ 
-
-
-### [업무 기록](https://velog.io/@sjb2010/saladlab-task)
 
 
  <br>
