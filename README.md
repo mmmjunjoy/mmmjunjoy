@@ -8,5 +8,5 @@
 
  </div>
  <br>
-<h3> The item planning is finalized and is in the development process. ✍️ 💻 </h3> 
+
 <h4> contact : sjbssk0809@gmail.com </h4>
